@@ -1,0 +1,13 @@
+Table 1
+,,,,,,,,,,,,,,,,,,,,,,
+State(SQM),Sanction Year,SQM I.C.,SQM_Grade,Status(SQM),Road_Length(SQM),District,Block,Road_name,Monitor Name(SQM),Inspection Date(SQM),Package(SQM),Start Chainage(SQM),End Chainage(SQM),Quality Arrangment(SQM),Attention To Quality(SQM),Geometrics(SQM),Base Course-Water Bound Macadam(SQM),Cross Drainage Works(SQM),Road Furnitures And Markings(SQM),Maintenance(SQM),Shoulders(SQM),pavement(SQM)
+Maharashtra,2022-2023,3,Satisfactory,Completed,6.5,Pune,Haveli,Shivaji Chowk to Wagholi,Deshpande Aniket,16 Dec 2023,MH04222,0.0,6.5,2,2,1,2,2,1,2,1,2
+Maharashtra,2021-2022,5,Unsatisfactory,In Progress,4.2,Mumbai,Andheri East,Andheri to Vile Parle,Joshi Sagar,01 Jul 2022,MH02125,0.0,4.2,1,1,2,1,2,2,1,2,2
+Maharashtra,2019-2020,4,Satisfactory,Maintenance,8.5,Nashik,Igatpuri,Kasara Ghat Road,Patil Ganesh,08 Jan 2023,MH05001,0.0,8.5,2,2,2,1,1,2,2,1,1
+Maharashtra,2020-2021,6,Satisfactory,Completed,7.6,Aurangabad,Phulambri,Phulambri to Shevgaon,Kulkarni Ram,23 Aug 2022,MH08177,0.0,7.6,2,1,2,2,2,1,1,2,1
+Maharashtra,2018-2019,7,Unsatisfactory,In Progress,5.7,Nagpur,Katol,Saoner to Kalmeshwar,Deshpande Sunil,31 Oct 2022,MH07244,0.0,5.7,1,2,1,2,1,1,2,2,2
+Maharashtra,2017-2018,4,Satisfactory,Maintenance,4.8,Solapur,Mohol,Pandharpur to Sangola,Kshirsagar Ashwini,02 Feb 2023,MH09112,0.0,4.8,2,1,2,1,2,2,1,1,1
+Maharashtra,2023-2024,5,Satisfactory,Completed,9.2,Mumbai,Andheri East,SEEPZ to BKC,Shetty Pranav,17 Dec 2024,MH02260,0.0,9.2,2,2,2,2,2,1,1,1,2
+Maharashtra,2022-2023,6,Unsatisfactory,In Progress,6.8,Pune,Indapur,Talegaon to Lonavala,Deshpande Sahil,29 Sep 2023,MH04303,0.0,6.8,1,2,1,2,1,1,2,2,2
+Maharashtra,2021-2022,8,Satisfactory,Maintenance,5.5,Aurangabad,Paithan,Paithan to Gangapur,Patil Abhay,14 Mar 2023,MH08199,0.0,5.5,2,1,1,1,2,2,1,2,1
+Maharashtra,2020-2021,3,Satisfactory,Completed,7.3,Nashik,Dindori,Shirdi to Trimbakeshwar,Kulkarni Madhav,05 Nov 2022,MH05112,0.0,7.3,2,2,2,2,2,1,1,1,2

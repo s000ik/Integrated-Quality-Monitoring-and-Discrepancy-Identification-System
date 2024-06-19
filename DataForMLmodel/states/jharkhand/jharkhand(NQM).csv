@@ -1,0 +1,12 @@
+Table 1
+State,Sanction Year,NQM I.C.,NQM_Grade,Status,Road_Length,District,Block,Road_name,Monitor Name,Inspection Date,Package,Start Chainage,End Chainage,Quality Arrangment,Attention To Quality,Geometrics,Base Course-Water Bound Macadam,Cross Drainage Works,Road Furnitures And Markings,Maintenance,Shoulders,pavement
+Jharkhand,2022-2023,2,Satisfactory,Completed,6.3,Ranchi,Ormanjhi,Ranchi to Namkum,Verma Rakesh,29-Oct-2023,JH11001,0.0,6.3,2,1,2,1,1,1,1,1,1
+Jharkhand,2021-2022,1,Unsatisfactory,In Progress,5.9,Dhanbad,Topchanchi,Dhanbad to Govindpur,Das Arnav,06-Jul-2023,JH07002,0.0,5.9,1,2,1,2,2,1,2,1,0
+Jharkhand,2019-2020,3,Satisfactory,Maintenance,4.8,Hazaribagh,Churchu,Hazaribagh to Ichak,Sahoo Sanjay,11-May-2023,JH09003,0.0,4.8,2,1,1,1,1,1,1,2,1
+Jharkhand,2020-2021,2,Satisfactory,Completed,7.5,Palamu,Hussainabad,Hussainabad to Garhwa,Roy Pallab,27-Mar-2023,JH02004,0.0,7.5,2,2,2,2,1,1,2,1,1
+Jharkhand,2018-2019,1,Unsatisfactory,In Progress,6.7,Bokaro,Chandrapura,Bokaro to Gomia,Das Gargi,05-Feb-2023,JH10001,0.0,6.7,1,1,1,2,1,1,1,2,0
+Jharkhand,2017-2018,4,Satisfactory,Maintenance,5.6,Deoghar,Madhupur,Deoghar to Jasidih,Kumar Ankit,15-Dec-2023,JH14005,0.0,5.6,2,2,1,1,1,2,1,1,1
+Jharkhand,2023-2024,2,Satisfactory,Completed,8.2,Ranchi,Kanke,Ranchi to Mandar,Sinha Raj,03-Nov-2023,JH11002,0.0,8.2,2,1,2,2,1,1,1,1,2
+Jharkhand,2022-2023,3,Unsatisfactory,In Progress,7.3,Dumka,Masalia,Dumka to Hansdiha,Verma Mona,18-Sep-2023,JH12007,0.0,7.3,1,1,1,2,2,1,1,0,0
+Jharkhand,2021-2022,4,Satisfactory,Maintenance,5.9,Godda,Mahagama,Godda to Pathargama,Yadav Savita,27-Jun-2023,JH10009,0.0,5.9,2,1,1,1,1,1,1,1,1
+Jharkhand,2020-2021,1,Satisfactory,Completed,5.2,Chatra,Itkhori,Chatra to Pratappur,Das Arpita,04-Apr-2023,JH11010,0.0,5.2,2,2,2,2,1,2,2,1,1

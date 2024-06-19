@@ -1,0 +1,12 @@
+Table 1
+State(SQM),Sanction Year,SQM I.C.,SQM_Grade,Status(SQM),Road_Length(SQM),District,Block,Road_name,Monitor Name(SQM),Inspection Date(SQM),Package(SQM),Start Chainage(SQM),End Chainage(SQM),Quality Arrangment(SQM),Attention To Quality(SQM),Geometrics(SQM),Base Course-Water Bound Macadam(SQM),Cross Drainage Works(SQM),Road Furnitures And Markings(SQM),Maintenance(SQM),Shoulders(SQM),pavement(SQM)
+Rajasthan,2022-2023,7,Satisfactory,Completed,6.1,Jaipur,Phulera,Jaipur to Sambhar,Meena Mahendra,29-Nov-2023,RJ11001,0.0,6.1,2,1,2,1,1,1,1,1,1
+Rajasthan,2000-2001,8,Unsatisfactory,In Progress,5.4,Dausa,Lalsot,Lalsot to Mahua,Rathore Umesh,27-Apr-2001,RJ07002,0.0,5.4,1,1,1,2,1,1,2,0,2
+Rajasthan,2019-2020,8,Satisfactory,Maintenance,4.3,Udaipur,Kherwara,Udaipur to Nathdwara,Mehta Mahesh,10-Aug-2020,RJ09003,0.0,4.3,2,1,1,1,1,1,1,1,1
+Rajasthan,2018-2019,7,Satisfactory,Completed,7.1,Sri Ganganagar,Sri Ganganagar,Raisinghnagar to Sri Ganganagar,Chauhan Rajiv,22-Jan-2019,RJ02004,0.0,7.1,2,2,2,2,1,1,2,2,1
+Rajasthan,2017-2018,6,Unsatisfactory,In Progress,6.4,Jodhpur,Balesar,Balesar to Shergarh,Sodha Naveen,30-Nov-2017,RJ10001,0.0,6.4,1,1,1,2,1,1,1,0,2
+Rajasthan,2005-2006,9,Satisfactory,Maintenance,5.7,Dholpur,Dholpur,Bari to Dholpur,Sharma Vinod,16-May-2006,RJ14005,0.0,5.7,2,1,1,1,1,2,1,1,1
+Rajasthan,2021-2022,7,Satisfactory,Completed,7.9,Sikar,Neem Ka Thana,Sikar to Sri Madhopur,Mehta Pawan,08-Mar-2022,RJ11002,0.0,7.9,2,1,2,2,1,1,1,2,2
+Rajasthan,2020-2021,8,Unsatisfactory,In Progress,6.8,Barmer,Siwana,Barmer to Balotra,Choudhary Suresh,23-Sep-2020,RJ12007,0.0,6.8,1,1,1,2,2,1,2,0,0
+Rajasthan,2019-2020,9,Satisfactory,Maintenance,5.8,Tonk,Uniara,Tonk to Deoli,Sharma Mahendra,04-Jun-2020,RJ10009,0.0,5.8,2,1,1,1,1,1,1,1,1
+Rajasthan,2018-2019,6,Satisfactory,Completed,5.2,Karauli,Sapotra,Hindaun to Karauli,Meena Kalpana,14-Jan-2019,RJ11010,0.0,5.2,2,2,2,2,1,2,1,1,1

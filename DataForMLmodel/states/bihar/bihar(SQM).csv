@@ -1,0 +1,13 @@
+Table 1
+,,,,,,,,,,,,,,,,,,,,,,
+State(SQM),Sanction Year,SQM I.C.,SQM_Grade,Status(SQM),Road_Length(SQM),District,Block,Road_name,Monitor Name(SQM),Inspection Date(SQM),Package(SQM),Start Chainage(SQM),End Chainage(SQM),Quality Arrangment(SQM),Attention To Quality(SQM),Geometrics(SQM),Base Course-Water Bound Macadam(SQM),Cross Drainage Works(SQM),Road Furnitures And Markings(SQM),Maintenance(SQM),Shoulders(SQM),pavement(SQM)
+Bihar,2022-2023,6,Satisfactory,Completed,8.2,Patna,Harnaut,Harnaut to Nalanda,Prasad Amit,16 Dec 2023,BR01155,0.0,8.2,2,2,2,1,1,1,1,2,1
+Bihar,2021-2022,4,Unsatisfactory,In Progress,6.3,Bhagalpur,Nathnagar,Bhagalpur to Sabour,Chaudhary Rahul,05 Apr 2022,BR00233,0.0,6.3,1,1,1,2,2,2,1,2,2
+Bihar,2019-2020,3,Satisfactory,Maintenance,7.5,Araria,Forbesganj,Galgalia to Sikti,Verma Puneet,11 Aug 2023,BR00501,0.0,7.5,2,2,2,2,2,1,2,1,1
+Bihar,2020-2021,5,Satisfactory,Completed,5.6,Gaya,Atri,Guraru to Dobhi,Yadav Sachin,19 Nov 2022,BR02077,0.0,5.6,2,1,2,1,1,1,1,1,2
+Bihar,2018-2019,7,Unsatisfactory,In Progress,6.8,Darbhanga,Singhwara,Jale to Samastipur,Sinha Ajay,03 Feb 2023,BR04011,0.0,6.8,1,2,1,2,1,1,2,2,2
+Bihar,2017-2018,4,Satisfactory,Maintenance,4.9,Aurangabad,Kutumba,Aurangabad to Nabinagar,Kumar Arjun,28 Jun 2023,BR01009,0.0,4.9,2,1,2,1,2,2,1,1,1
+Bihar,2023-2024,5,Satisfactory,Completed,9.6,Patna,Fatuha,Danapur to Maner,Singh Neeraj,15 Dec 2024,BR01177,0.0,9.6,2,2,2,2,2,1,1,1,2
+Bihar,2022-2023,6,Unsatisfactory,In Progress,7.3,Muzaffarpur,Kanti,Kanti to Motipur,Mishra Rohit,01 Oct 2023,BR03009,0.0,7.3,1,2,1,2,1,1,2,2,2
+Bihar,2021-2022,8,Satisfactory,Maintenance,6.1,Gaya,Dumaria,Banke Bazaar to Khijarsarai,Gupta Sunny,27 Feb 2023,BR02022,0.0,6.1,2,1,1,1,2,2,1,2,1
+Bihar,2020-2021,3,Satisfactory,Completed,6.8,Darbhanga,Hayaghat,Darbhanga to Keoti,Mandal Deepika,30 Nov 2022,BR04015,0.0,6.8,2,2,2,2,2,1,1,1,2

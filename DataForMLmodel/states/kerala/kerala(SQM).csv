@@ -1,0 +1,12 @@
+Table 1
+State(SQM),Sanction Year,SQM I.C.,SQM_Grade,Status(SQM),Road_Length(SQM),District,Block,Road_name,Monitor Name(SQM),Inspection Date(SQM),Package(SQM),Start Chainage(SQM),End Chainage(SQM),Quality Arrangment(SQM),Attention To Quality(SQM),Geometrics(SQM),Base Course-Water Bound Macadam(SQM),Cross Drainage Works(SQM),Road Furnitures And Markings(SQM),Maintenance(SQM),Shoulders(SQM),pavement(SQM)
+Kerala,2021-2022,7,Satisfactory,Completed,5.2,Ernakulam,Kalamassery,Kalamassery to Edappally,Suresh Nair,15-Jun-2022,KL11001,0.0,5.2,2,1,2,1,1,2,1,1,1
+Kerala,2020-2021,6,Unsatisfactory,In Progress,6.4,Thiruvananthapuram,Kazhakuttam,Kazhakuttam to Vazhayila,Deepa Menon,29-Oct-2022,KL07002,0.0,6.4,1,2,1,2,2,1,2,0,0
+Kerala,2022-2023,8,Satisfactory,Maintenance,4.9,Kottayam,Pala,Pala to Puthuppally,Rajesh Pillai,18-Dec-2023,KL09003,0.0,4.9,2,1,1,1,1,1,1,2,2
+Kerala,2019-2020,7,Satisfactory,Completed,7.2,Malappuram,Tirur,Tirur to Tirurangadi,Maya Krishnan,05-Aug-2023,KL02004,0.0,7.2,2,2,2,2,1,2,2,1,1
+Kerala,2017-2018,6,Unsatisfactory,In Progress,6.3,Kozhikode,Ramanattukara,Feroke to Ramanattukara,Vinod Krishna,12-Sep-2023,KL10001,0.0,6.3,1,1,1,1,2,1,1,0,0
+Kerala,2021-2022,9,Satisfactory,Maintenance,5.7,Pathanamthitta,Mallappally,Mallappally to Ranni,Sajith Nambiar,03-Nov-2023,KL14005,0.0,5.7,2,2,1,1,1,2,1,1,0
+Kerala,2020-2021,7,Unsatisfactory,In Progress,6.1,Kannur,Taliparamba,Iritty to Taliparamba,Reena Raj,29-Oct-2023,KL12007,0.0,6.1,1,1,2,2,2,1,1,1,1
+Kerala,2022-2023,6,Satisfactory,Completed,4.8,Alappuzha,Haripad,Haripad to Mavelikkara,Jatin Nair,18-Aug-2023,KL06008,0.0,4.8,2,1,2,1,1,1,2,2,1
+Kerala,2019-2020,8,Satisfactory,Maintenance,6.5,Idukki,Thodupuzha,Thodupuzha to Muvattupuzha,Anil Kumar,05-Jul-2023,KL10009,0.0,6.5,2,2,1,2,1,2,1,0,1
+Kerala,2021-2022,6,Unsatisfactory,In Progress,5.5,Wayanad,Mananthavady,Mananthavady to Sulthan Bathery,Vinaya Menon,12-May-2023,KL11010,0.0,5.5,1,1,2,2,2,1,2,1,0
