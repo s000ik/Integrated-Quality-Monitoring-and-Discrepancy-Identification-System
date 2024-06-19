@@ -1,0 +1,11 @@
+State,Sanction Year,NQM I.C.,NQM_Grade,Status,Road_Length,District,Block,Road_name,Monitor Name,Inspection Date,Package,Start Chainage,End Chainage,Quality Arrangment,Attention To Quality,Geometrics,Base Course-Water Bound Macadam,Cross Drainage Works,Road Furnitures And Markings,Maintenance,Shoulders,pavement
+Delhi,2022-2023,2,Satisfactory,Completed,6.8,North West Delhi,Rohini,Budh Vihar to Samaypur,Kumar Ritesh,18 Jan 2024,DL11001,0.0,6.8,2,2,2,1,1,2,2,1,2
+Delhi,2021-2022,1,Unsatisfactory,In Progress,5.3,West Delhi,Tilak Nagar,Tilak Nagar to Janakpuri,Mehta Shreya,22 Jun 2022,DL07002,0.0,5.3,1,1,1,2,2,1,1,2,2
+Delhi,2019-2020,1,Satisfactory,Maintenance,7.9,South East Delhi,Govind Puri,Kalkaji to Badarpur,Aggarwal Shikha,19 Oct 2023,DL09003,0.0,7.9,2,1,1,1,1,2,2,0,1
+Delhi,2020-2021,1,Satisfactory,Completed,6.7,East Delhi,Preet Vihar,Preet Vihar to Shakarpur,Bajpai Sakshi,29 Nov 2022,DL02004,0.0,6.7,2,2,2,2,1,2,1,1,1
+Delhi,2018-2019,3,Unsatisfactory,In Progress,7.3,New Delhi,Jor Bagh,Barakhamba Road to Golf Course,Dasgupta Ira,13 Apr 2023,DL10001,0.0,7.3,1,2,2,1,2,1,2,0,0
+Delhi,2017-2018,1,Satisfactory,Maintenance,5.4,North East Delhi,Loni Road,Yamuna Vihar to Bhajanpura,Narang Pallavi,10 Aug 2023,DL14005,0.0,5.4,2,1,1,1,1,1,1,2,2
+Delhi,2022-2023,1,Unsatisfactory,In Progress,7.5,Shahdara,Krishna Nagar,Laxmi Nagar to Nand Nagri,Chopra Geetika,11 Nov 2023,DL12007,0.0,7.5,1,1,2,2,2,1,1,0,0
+Delhi,2021-2022,4,Satisfactory,Maintenance,6.4,South West Delhi,Najafgarh,Najafgarh to Roshanara Road,Pandey Meenakshi,08 Mar 2023,DL06008,0.0,6.4,2,2,1,1,1,1,2,1,0
+Delhi,2020-2021,1,Satisfactory,Completed,6.9,New Delhi,Connaught Place,Panchsheel Marg to Khel Gaon Marg,Gupta Nidhi,09 Jan 2023,DL10009,0.0,6.9,2,1,2,2,1,1,1,2,1
+Delhi,2022-2023,2,Satisfactory,Completed,6.8,North West Delhi,Rohini,Budh Vihar to Samaypur,Kumar Ritesh,18 Jan 2024,DL11001,0.0,6.8,2,2,2,1,1,2,2,1,1

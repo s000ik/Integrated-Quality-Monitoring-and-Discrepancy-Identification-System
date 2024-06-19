@@ -1,0 +1,58 @@
+1-Individuals with repeated Discrepancies(NQM)- Monitor Name
+Dange Pradeep Bhaskar rao    2
+Sharma Deputy Lal            2
+Suresh Chandra Sharma        2
+Prakash Anugrah              1
+dtype: int64 
+
+2-Individuals with repeated Discrepancies(SQM)- Monitor Name(SQM)
+Muthuvalliappan M       2
+C Duraisamy             1
+Durairaj Kumaraswamy    1
+Thangaraj D             1
+Thiruppathy Chithan     1
+dtype: int64 
+
+3-Most Number of Discrepancies found in districts- DISTRICT_NAME
+Dindigul          18.0
+Tiruvannamalai    16.0
+Virudhunagar      14.0
+Madurai           14.0
+Cuddalore         12.0
+Name: DISCREPANCY_S, dtype: float64 
+
+ 4-Least Number of NQM inspection- DISTRICT_NAME
+Tenkasi           6
+Kanniyakumari     6
+Tirupathur       12
+Theni            15
+The Nilgiris     15
+Name: NQM_INSP_COUNT, dtype: int64 
+
+ 5-Least Number of SQM inspection- DISTRICT_NAME
+Theni             54
+Kanniyakumari     59
+Tenkasi           79
+Tirupathur       119
+The Nilgiris     120
+Name: SQM_INSP_COUNT1, dtype: int64 
+
+ 6-Number Of Discrepancies in last 5 years- SANCTION_YEAR
+2018-2019    20.0
+2019-2020    11.0
+2020-2021    19.0
+2021-2022     9.0
+2022-2023     1.0
+Name: DISCREPANCY_S, dtype: float64 
+
+ 7-Number Of Discrepancies Levelwise- DISCREPANCY_LEVEL
+Medium              16
+High                47
+Low                140
+No Descripancy    3385
+Name: DISCREPANCY, dtype: int64 
+
+
+
+ NOTE- 1-All The Results are based On a Deep Learning Model of 99.91% Accuracy 
+ 2-Discrepancies are Found on the basis of comparison between NQM and SQM

@@ -1,0 +1,12 @@
+Table 1
+State(SQM),Sanction Year,SQM I.C.,SQM_Grade,Status(SQM),Road_Length(SQM),District,Block,Road_name,Monitor Name(SQM),Inspection Date(SQM),Package(SQM),Start Chainage(SQM),End Chainage(SQM),Quality Arrangment(SQM),Attention To Quality(SQM),Geometrics(SQM),Base Course-Water Bound Macadam(SQM),Cross Drainage Works(SQM),Road Furnitures And Markings(SQM),Maintenance(SQM),Shoulders(SQM),pavement(SQM)
+Punjab,2022-2023,7,Satisfactory,Completed,5.8,Ludhiana,Jagraon,Ludhiana to Raikot,Singh Gagandeep,11-Nov-2023,PB11001,0.0,5.8,2,1,2,1,1,1,1,2,1
+Punjab,2021-2022,6,Unsatisfactory,In Progress,6.4,Patiala,Samana,Patiala to Patran,Kaur Manpreet,26-Jul-2023,PB07002,0.0,6.4,1,2,1,2,2,1,2,0,0
+Punjab,2019-2020,8,Satisfactory,Maintenance,4.6,Hoshiarpur,Dasuya,Hoshiarpur to Tanda,Sodhi Jaswinder,08-Jun-2023,PB09003,0.0,4.6,2,1,1,1,1,2,1,2,1
+Punjab,2020-2021,7,Satisfactory,Completed,7.9,Bathinda,Rampura Phul,Bathinda to Maur,Singh Gurwinder,17-Apr-2023,PB02004,0.0,7.9,2,2,2,2,1,1,2,1,1
+Punjab,2018-2019,6,Unsatisfactory,In Progress,6.2,Sangrur,Malerkotla,Sangrur to Ahmedgarh,Kaur Rajbir,28-Feb-2023,PB10001,0.0,6.2,1,1,1,2,1,1,1,0,2
+Punjab,2017-2018,9,Satisfactory,Maintenance,5.5,Mohali,Kharar,Kharar to Banur,Singh Iqbal,10-Jan-2023,PB14005,0.0,5.5,2,2,1,1,1,2,1,1,1
+Punjab,2022-2023,7,Satisfactory,Completed,8.4,Amritsar,Ajnala,Amritsar to Batala,Kumar Aakash,23-Nov-2023,PB11002,0.0,8.4,2,1,2,2,2,1,1,2,2
+Punjab,2022-2023,8,Unsatisfactory,In Progress,7.1,Moga,Dharamkot,Moga to Kotkapura,Sahni Ridhima,05-Oct-2023,PB12007,0.0,7.1,1,1,1,2,2,1,2,0,0
+Punjab,2021-2022,9,Satisfactory,Maintenance,5.7,Faridkot,Jaito,Faridkot to Kotkapura,Walia Sonam,18-Aug-2023,PB10009,0.0,5.7,2,1,1,1,1,2,2,2,1
+Punjab,2020-2021,6,Satisfactory,Completed,4.9,Fazilka,Fazilka,Fazilka to Abohar,Sidhu Jasmeet,02-Jul-2023,PB11010,0.0,4.9,2,2,2,2,1,1,1,1,2

@@ -1,0 +1,12 @@
+Table 1
+State,Sanction Year,NQM I.C.,NQM_Grade,Status,Road_Length,District,Block,Road_name,Monitor Name,Inspection Date,Package,Start Chainage,End Chainage,Quality Arrangment,Attention To Quality,Geometrics,Base Course-Water Bound Macadam,Cross Drainage Works,Road Furnitures And Markings,Maintenance,Shoulders,pavement
+Bihar,2022-2023,1,Satisfactory,Completed,8.2,Patna,Harnaut,Harnaut to Nalanda,Kumar Vikas,22 Jan 2024,BR01155,0.0,8.2,2,2,2,1,1,2,2,1,1
+Bihar,2021-2022,1,Unsatisfactory,In Progress,6.3,Bhagalpur,Nathnagar,Bhagalpur to Sabour,Sharma Neetu,17 May 2022,BR00233,0.0,6.3,1,1,1,2,2,1,1,2,0
+Bihar,2019-2020,2,Satisfactory,Maintenance,7.5,Araria,Forbesganj,Galgalia to Sikti,Singh Abha,28 Sep 2023,BR00501,0.0,7.5,2,1,1,1,1,2,2,2,0
+Bihar,2020-2021,1,Satisfactory,Completed,5.6,Gaya,Atri,Guraru to Dobhi,Prasad Sunita,27 Dec 2022,BR02077,0.0,5.6,2,2,2,2,1,1,1,1,1
+Bihar,2018-2019,2,Unsatisfactory,In Progress,6.8,Darbhanga,Singhwara,Jale to Samastipur,Chaudhary Poonam,16 Mar 2023,BR04011,0.0,6.8,1,2,2,1,2,1,2,2,2
+Bihar,2017-2018,2,Satisfactory,Maintenance,4.9,Aurangabad,Kutumba,Aurangabad to Nabinagar,Verma Shweta,08 Aug 2023,BR01009,0.0,4.9,2,1,1,1,1,1,1,1,0
+Bihar,2023-2024,1,Satisfactory,Completed,9.6,Patna,Fatuha,Danapur to Maner,Chaudhary Minakshi,29 Jan 2025,BR01177,0.0,9.6,2,2,2,2,1,1,2,0,0
+Bihar,2022-2023,1,Unsatisfactory,In Progress,7.3,Muzaffarpur,Kanti,Kanti to Motipur,Pandey Urmila,17 Nov 2023,BR03009,0.0,7.3,1,1,2,2,2,1,1,2,2
+Bihar,2021-2022,3,Satisfactory,Maintenance,6.1,Gaya,Dumaria,Banke Bazaar to Khijarsarai,Tiwary Archana,13 Mar 2023,BR02022,0.0,6.1,2,2,1,1,1,1,2,1,2
+Bihar,2020-2021,3,Satisfactory,Completed,6.8,Darbhanga,Hayaghat,Darbhanga to Keoti,Sharma Priyanka,16 Jan 2023,BR04015,0.0,6.8,2,1,2,2,1,1,1,0,1

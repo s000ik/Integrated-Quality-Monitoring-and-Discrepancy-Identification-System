@@ -1,0 +1,12 @@
+Table 1
+State(SQM),Sanction Year,SQM I.C.,SQM_Grade,Status(SQM),Road_Length(SQM),District,Block,Road_name,Monitor Name(SQM),Inspection Date(SQM),Package(SQM),Start Chainage(SQM),End Chainage(SQM),Quality Arrangment(SQM),Attention To Quality(SQM),Geometrics(SQM),Base Course-Water Bound Macadam(SQM),Cross Drainage Works(SQM),Road Furnitures And Markings(SQM),Maintenance(SQM),Shoulders(SQM),pavement(SQM)
+Delhi,2022-2023,7,Satisfactory,Completed,6.8,North West Delhi,Rohini,Budh Vihar to Samaypur,Dixit Raj,14 Dec 2023,DL11001,0.0,6.8,2,2,2,1,1,1,1,2,1
+Delhi,2021-2022,5,Unsatisfactory,In Progress,5.3,West Delhi,Tilak Nagar,Tilak Nagar to Janakpuri,Chandna Sonia,07 May 2022,DL07002,0.0,5.3,1,1,1,2,2,2,1,2,2
+Delhi,2019-2020,4,Satisfactory,Maintenance,7.9,South East Delhi,Govind Puri,Kalkaji to Badarpur,Manchanda Darshan,11 Sep 2023,DL09003,0.0,7.9,2,2,2,2,2,1,2,1,1
+Delhi,2020-2021,6,Satisfactory,Completed,6.7,East Delhi,Preet Vihar,Preet Vihar to Shakarpur,Bhandari Pulkit,21 Oct 2022,DL02004,0.0,6.7,2,1,2,1,1,1,1,1,2
+Delhi,2018-2019,8,Unsatisfactory,In Progress,7.3,New Delhi,Jor Bagh,Barakhamba Road to Golf Course,Das Manavi,04 Mar 2023,DL10001,0.0,7.3,1,2,1,2,1,1,2,2,2
+Delhi,2017-2018,5,Satisfactory,Maintenance,5.4,North East Delhi,Loni Road,Yamuna Vihar to Bhajanpura,Kapoor Sonakshi,29 Jul 2023,DL14005,0.0,5.4,2,1,2,1,2,2,1,1,1
+Delhi,2022-2023,7,Unsatisfactory,In Progress,7.5,Shahdara,Krishna Nagar,Laxmi Nagar to Nand Nagri,Ahuja Priyanka,03 Oct 2023,DL12007,0.0,7.5,1,2,1,2,1,1,2,2,2
+Delhi,2021-2022,9,Satisfactory,Maintenance,6.4,South West Delhi,Najafgarh,Najafgarh to Roshanara Road,Saxena Sahil,28 Feb 2023,DL06008,0.0,6.4,2,1,1,1,2,2,1,2,1
+Delhi,2020-2021,4,Satisfactory,Completed,6.9,New Delhi,Connaught Place,Panchsheel Marg to Khel Gaon Marg,Sehgal Puneet,01 Dec 2022,DL10009,0.0,6.9,2,2,2,2,2,1,1,1,2
+Delhi,2022-2023,7,Satisfactory,Completed,6.8,North West Delhi,Rohini,Budh Vihar to Samaypur,Dixit Raj,14 Dec 2023,DL11001,0.0,6.8,2,2,2,1,1,1,1,2,1

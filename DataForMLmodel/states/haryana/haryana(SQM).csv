@@ -1,0 +1,12 @@
+Table 1
+State(SQM),Sanction Year,SQM I.C.,SQM_Grade,Status(SQM),Road_Length(SQM),District,Block,Road_name,Monitor Name(SQM),Inspection Date(SQM),Package(SQM),Start Chainage(SQM),End Chainage(SQM),Quality Arrangment(SQM),Attention To Quality(SQM),Geometrics(SQM),Base Course-Water Bound Macadam(SQM),Cross Drainage Works(SQM),Road Furnitures And Markings(SQM),Maintenance(SQM),Shoulders(SQM),pavement(SQM)
+Haryana,2022-2023,7,Satisfactory,Completed,6.1,Gurugram,Sohna,Sohna to Taoru,Singh Varun,11-Dec-2023,HR11001,0.0,6.1,2,2,2,1,1,1,1,1,1
+Haryana,2021-2022,6,Unsatisfactory,In Progress,5.8,Ambala,Naraingarh,Ambala to Bhadson,Dutt Rajesh,28-Mar-2023,HR07002,0.0,5.8,1,1,1,2,2,1,2,2,2
+Haryana,2019-2020,8,Satisfactory,Maintenance,4.9,Karnal,Nissing,Karnal to Assandh,Sharma Deepak,16-Sep-2023,HR09003,0.0,4.9,2,2,1,1,1,1,1,1,1
+Haryana,2020-2021,7,Satisfactory,Completed,7.2,Jhajjar,Salhawas,Jhajjar to Bahadurgarh,Malhotra Gaurav,03-Aug-2023,HR02004,0.0,7.2,2,1,2,2,1,2,2,1,1
+Haryana,2018-2019,6,Unsatisfactory,In Progress,6.5,Rohtak,Lakhan Majra,Rohtak to Sampla,Dogra Sanjay,12-Jul-2023,HR10001,0.0,6.5,1,1,1,2,1,1,1,0,2
+Haryana,2017-2018,9,Satisfactory,Maintenance,5.3,Sonipat,Gohana,Sonipat to Panipat,Bhatia Deepak,21-Jun-2023,HR14005,0.0,5.3,2,2,1,1,1,2,1,2,1
+Haryana,2022-2023,7,Satisfactory,Completed,7.7,Faridabad,Palwal,Faridabad to Hodal,Malik Sunil,29-Nov-2024,HR11002,0.0,7.7,2,1,2,2,1,1,1,1,2
+Haryana,2022-2023,8,Unsatisfactory,In Progress,6.4,Kaithal,Pundri,Cheeka to Pehowa,Shukla Manoj,18-Oct-2023,HR12007,0.0,6.4,1,1,1,2,2,1,2,1,0
+Haryana,2021-2022,9,Satisfactory,Maintenance,5.2,Bhiwani,Loharu,Bhiwani to Charkhi Dadri,Rastogi Meenakshi,04-Sep-2023,HR10009,0.0,5.2,2,2,1,1,1,1,1,1,1
+Haryana,2020-2021,6,Satisfactory,Completed,4.9,Sirsa,Ellenabad,Sirsa to Dabwali,Yadav Sunita,17-Aug-2023,HR11010,0.0,4.9,2,2,2,2,1,2,2,1,1

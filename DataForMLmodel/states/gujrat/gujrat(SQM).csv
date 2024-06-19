@@ -1,0 +1,13 @@
+Table 1
+,,,,,,,,,,,,,,,,,,,,,,
+State(SQM),Sanction Year,SQM I.C.,SQM_Grade,Status(SQM),Road_Length(SQM),District,Block,Road_name,Monitor Name(SQM),Inspection Date(SQM),Package(SQM),Start Chainage(SQM),End Chainage(SQM),Quality Arrangment(SQM),Attention To Quality(SQM),Geometrics(SQM),Base Course-Water Bound Macadam(SQM),Cross Drainage Works(SQM),Road Furnitures And Markings(SQM),Maintenance(SQM),Shoulders(SQM),pavement(SQM)
+Gujarat,2020-2021,8,Satisfactory,Completed,6.5,Ahmedabad,Dholka,MRL16 - Dholka to Bhadaj,Patel Ramesh,15 Feb 2023,GJ01001,0,6.5,2,2,2,2,2,1,1,1,2
+Gujarat,2018-2019,6,Satisfactory,Maintenance,10.0,Anand,Anklav,Anklav to Sinorda,Shah Tejas,03 Mar 2022,GJ07008,0,10.0,2,2,2,2,2,2,1,1,1
+Gujarat,2016-2017,7,Unsatisfactory,In Progress,4.5,Bharuch,Amod,Amod to Limodara,Patel Nirav,14 Aug 2021,GJ03005,0,4.5,1,2,1,2,2,1,2,2,2
+Gujarat,2021-2022,9,Satisfactory,Completed,7.2,Bhavnagar,Sihor,Sihor to Madhapar,Desai Ankit,11 Dec 2023,GJ02011,0,7.2,2,2,2,2,2,1,1,1,2
+Gujarat,2013-2014,5,Satisfactory,Maintenance,8.5,Surat,Palsana,Palsana to Piplod,Shah Parth,26 Sep 2022,GJ05004,0,8.5,2,2,2,2,2,2,1,1,1
+Gujarat,2020-2021,8,Satisfactory,Completed,6.5,Ahmedabad,Dholka,MRL16 - Dholka to Bhadaj,Patel Ramesh,15 Feb 2023,GJ01001,0,6.5,2,2,2,2,2,1,1,1,2
+Gujarat,2018-2019,6,Satisfactory,Maintenance,10.0,Anand,Anklav,Anklav to Sinorda,Shah Tejas,03 Mar 2022,GJ07008,0,10.0,2,2,2,2,2,2,1,1,1
+Gujarat,2016-2017,7,Unsatisfactory,In Progress,4.5,Bharuch,Amod,Amod to Limodara,Patel Nirav,14 Aug 2021,GJ03005,0,4.5,1,2,1,2,2,1,2,2,2
+Gujarat,2021-2022,9,Satisfactory,Completed,7.2,Bhavnagar,Sihor,Sihor to Madhapar,Desai Ankit,11 Dec 2023,GJ02011,0,7.2,2,2,2,2,2,1,1,1,2
+Gujarat,2013-2014,5,Satisfactory,Maintenance,8.5,Surat,Palsana,Palsana to Piplod,Shah Parth,26 Sep 2022,GJ05004,0,8.5,2,2,2,2,2,2,1,1,1

@@ -1,0 +1,12 @@
+Table 1
+State(SQM),Sanction Year,SQM I.C.,SQM_Grade,Status(SQM),Road_Length(SQM),District,Block,Road_name,Monitor Name(SQM),Inspection Date(SQM),Package(SQM),Start Chainage(SQM),End Chainage(SQM),Quality Arrangment(SQM),Attention To Quality(SQM),Geometrics(SQM),Base Course-Water Bound Macadam(SQM),Cross Drainage Works(SQM),Road Furnitures And Markings(SQM),Maintenance(SQM),Shoulders(SQM),pavement(SQM)
+Madhya Pradesh,2022-2023,6,Satisfactory,Completed,7.5,Indore,Sanwer,Indore Airport Road,Chaturvedi Ashish,14 Dec 2023,MP07155,0.0,7.5,2,2,2,1,1,1,1,1,2
+Madhya Pradesh,2021-2022,4,Unsatisfactory,In Progress,7.3,Bhopal,Berasia,Karondi to Islamnagar,Shukla Mukesh,06 May 2022,MP09245,0.0,7.3,1,1,1,2,2,2,1,2,2
+Madhya Pradesh,2019-2020,5,Satisfactory,Maintenance,8.6,Dhar,Dhar,Dhar to Kukshi,Pande Himanshu,11 Sep 2023,MP03003,0.0,8.6,2,2,2,2,2,1,2,1,1
+Madhya Pradesh,2020-2021,8,Satisfactory,Completed,6.7,Chhindwara,Sausar,Sausar to Pandhurna,Dixit Amar,21 Oct 2022,MP14004,0.0,6.7,2,1,2,1,1,1,1,1,2
+Madhya Pradesh,2018-2019,9,Unsatisfactory,In Progress,7.8,Gwalior,Dabra,Gwalior Bypass,Singh Akhilesh,04 Mar 2023,MP05005,0.0,7.8,1,2,1,2,1,1,2,2,2
+Madhya Pradesh,2017-2018,7,Satisfactory,Maintenance,4.5,Ujjain,Ujjain,Ujjain Ring Road,Rai Ankit,29 Jul 2023,MP11006,0.0,4.5,2,1,2,1,2,2,1,1,1
+Madhya Pradesh,2022-2023,3,Satisfactory,Completed,9.6,Indore,Depalpur,Rau to Hatod,Sharma Atul,15 Dec 2023,MP07157,0.0,9.6,2,2,2,2,2,1,1,1,2
+Madhya Pradesh,2021-2022,6,Unsatisfactory,In Progress,8.3,Jabalpur,Patan,Patan to Sihora,Verma Gaurav,03 Oct 2023,MP08007,0.0,8.3,1,2,1,2,1,1,2,2,2
+Madhya Pradesh,2019-2020,8,Satisfactory,Maintenance,7.1,Sagar,Deori,Deori to Rehli,Shukla Neeraj,28 Feb 2023,MP10001,0.0,7.1,2,1,1,1,2,2,1,2,1
+Madhya Pradesh,2018-2019,3,Satisfactory,Completed,8.9,Rewa,Sirmour,Hanumana to Teonther,Dixit Sumeet,01 Dec 2022,MP16009,0.0,8.9,2,2,2,2,2,1,1,1,2
