@@ -10,8 +10,8 @@ This project is a full-stack application designed to enhance quality control pro
 - To ensure seamless integration with existing quality management systems.
 
 ## Technology Stack
-- **Frontend**: Next.js, HTML/CSS
-- **Backend**: Python, Flask
+- **Frontend**: Next.js, Material UI, TailwindCSS
+- **Backend**: Python, Flask, React
 - **Machine Learning**: TensorFlow
 - **Data Processing**: Pandas
 - **Database**: PostgreSQL
@@ -23,10 +23,10 @@ This project is a full-stack application designed to enhance quality control pro
 4. **Integration Capability**: Compatible with existing quality management frameworks.
 
 ## Contributors
+- Satwik Singh
 - Mohit Verma
 - Nitin Yadav
 - Suryansh Yagnik
-- Satwik Singh
 - Nishita Singh
 
 ## Acknowledgments
