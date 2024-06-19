@@ -1,5 +1,5 @@
 # Integrated Quality Monitoring and Discrepancy Identification System
-
+Fullstack application featured in SIH 2023 Grand Finale
 ## Project Overview
 This project is a full-stack application designed to enhance quality control processes through an Integrated Quality Monitoring and Discrepancy Identification System. Utilizing advanced machine learning algorithms and data analysis techniques, this system is adept at detecting anomalies and providing real-time insights for quality improvements in various processes.
 
