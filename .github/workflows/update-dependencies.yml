@@ -2,9 +2,9 @@ name: Package Maintenance
 
 on:
   schedule:
-    - cron: "0 12 */1 * *" 
-    - cron: "0 12 */2 * *" 
-    - cron: "0 12 */3 * *" 
+    - cron: "0 2 */1 * *" 
+    - cron: "0 2 */2 * *" 
+    - cron: "0 2 */3 * *" 
   workflow_dispatch:    
 
 jobs:
