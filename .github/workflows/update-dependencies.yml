@@ -1,0 +1,57 @@
+name: Package Maintenance
+
+on:
+  schedule:
+    - cron: "0 12 */1 * *" 
+    - cron: "0 12 */2 * *" 
+    - cron: "0 12 */3 * *" 
+  workflow_dispatch:    
+
+jobs:
+  maintenance:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
+
+      - name: Configure Git
+        run: |
+          git config user.name 'Satwik Singh'
+          git config user.email 's000ik@users.noreply.github.com'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 'lts/*'
+          cache: 'npm'
+
+      - name: Workspace Check
+        id: workspace_check
+        run: |
+          RANDOM_NUM=$(( $RANDOM % 3 ))
+          if [ "$RANDOM_NUM" -ne 0 ]; then
+            echo "No changes needed at this time"
+            exit 0
+          fi
+
+      - name: Update Project Files
+        if: success()
+        run: |
+          echo "Project review: $(date -u)" >> project-log.txt
+          
+          npm install
+          npm update
+          
+          git add project-log.txt package*.json || true
+          git commit -m "Project maintenance and review" || true
+          
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Everything is up to date"
+            git commit --allow-empty -m "Reviewed project dependencies"
+          fi
+          
+          git push origin HEAD
