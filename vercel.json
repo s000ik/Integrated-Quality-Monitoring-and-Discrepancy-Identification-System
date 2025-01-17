@@ -1,9 +1,27 @@
 {
   "version": 2,
+  "buildCommand": "next build",
   "builds": [
     {
       "src": "package.json",
       "use": "@vercel/next"
+    }
+  ],
+  "cachePatterns": [
+    {
+      "source": "node_modules/**",
+      "destination": ".next/cache/next-server"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/_next/static/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
     }
   ]
 }

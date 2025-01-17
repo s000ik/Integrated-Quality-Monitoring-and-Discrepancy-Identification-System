@@ -11,7 +11,7 @@ import {
 
 const user = {
   avatar: '/assets/avatars/avatar-01.png',
-  city: 'Ghaziabad',
+  city: 'Ghaziabad,',
   country: 'India',
   jobTitle: 'Senior Developer',
   name: 'Satwik Singh',

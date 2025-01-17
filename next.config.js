@@ -2,7 +2,6 @@
 const nextConfig = {
   // Core config
   pageExtensions: ['js', 'jsx', 'ts', 'tsx'],
-  distDir: 'build',
   
   // Production optimizations
   reactStrictMode: true,
@@ -10,6 +9,7 @@ const nextConfig = {
   compress: true,
   optimizeFonts: true,
   swcMinify: true,
+  output: 'standalone', 
 
   // Skip checks during build
   eslint: {
