@@ -37,7 +37,7 @@ const Page = () => {
         .string()
         .email('Must be a valid email')
         .max(255)
-        .required('Email is required'),
+        .required('Govt ID is required'),
       password: Yup
         .string()
         .max(255)

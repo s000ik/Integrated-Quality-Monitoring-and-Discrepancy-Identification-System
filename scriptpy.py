@@ -37,4 +37,4 @@ def upload_to_google_sheets(csv_file, sheet_name):
         print("Update failed")
 
 # Example usage
-upload_to_google_sheets(r'/Users/mohitverma/Desktop/projects/SIH23/MLmodel/Data for Power BI updated.csv', 'lookerstudio')
+upload_to_google_sheets(r'/Users/ssatwik/Desktop/projects/SIH23/MLmodel/Data for Power BI updated.csv', 'lookerstudio')

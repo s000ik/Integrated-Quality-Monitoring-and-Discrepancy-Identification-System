@@ -1,17 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // Core config
-  pageExtensions: ['js', 'jsx', 'ts', 'tsx'],
-  
-  // Production optimizations
   reactStrictMode: true,
-  poweredByHeader: false,
-  compress: true,
-  optimizeFonts: true,
   swcMinify: true,
-  output: 'standalone', 
+  output: 'standalone',
 
-  // Skip checks during build
+  // Skip checks during build to prevent common errors
   eslint: {
     ignoreDuringBuilds: true,
   },

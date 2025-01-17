@@ -7,12 +7,6 @@
       "use": "@vercel/next"
     }
   ],
-  "cachePatterns": [
-    {
-      "source": "node_modules/**",
-      "destination": ".next/cache/next-server"
-    }
-  ],
   "headers": [
     {
       "source": "/_next/static/(.*)",

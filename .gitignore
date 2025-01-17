@@ -25,3 +25,5 @@ node_modules
 .next
 .vscode
 .env
+.vercel
+.cache

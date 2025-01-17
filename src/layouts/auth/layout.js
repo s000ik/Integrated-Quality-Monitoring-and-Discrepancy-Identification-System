@@ -1,9 +1,6 @@
 import PropTypes from 'prop-types';
 import NextLink from 'next/link';
 import { Box, Typography, Unstable_Grid2 as Grid } from '@mui/material';
-import { Logo } from 'src/components/logo';
-
-// TODO: Change subtitle text
 
 export const Layout = (props) => {
   const { children } = props;
@@ -69,6 +66,11 @@ export const Layout = (props) => {
           }}
         >
           <Box sx={{ p: 3 }}>
+            <img
+              alt=""
+              src="/assets/IQMDIS-kit-pro.png"
+              style={{ display: 'block', margin: '0 auto', marginBottom: '2rem' }}
+            />
             <Typography
               align="center"
               color="inherit"
@@ -95,10 +97,6 @@ export const Layout = (props) => {
             >
               Integrated Quality Monitoring and Discrepancy Identification System
             </Typography>
-            <img
-              alt=""
-              src="/assets/auth-illustration.svg"
-            />
           </Box>
         </Grid>
       </Grid>
