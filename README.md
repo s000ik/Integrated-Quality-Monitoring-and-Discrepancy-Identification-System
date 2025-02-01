@@ -10,11 +10,11 @@ This project is a full-stack application designed to enhance quality control pro
 - To ensure seamless integration with existing quality management systems.
 
 ## Technology Stack
-- **Frontend**: Next.js, Material UI, TailwindCSS
-- **Backend**: Python, Flask, React
+- **Frontend**: Next.js, Material UI, TailwindCSS, PowerBI
+- **Backend**: Python, Flask, React, GCP
 - **Machine Learning**: TensorFlow
-- **Data Processing**: Pandas
-- **Database**: PostgreSQL
+- **Data Processing**: Pandas, Numpy
+- **Database**: PostgreSQL, Later Google Cloud Big Data
 
 ## Features
 1. **Real-Time Monitoring**: Continuous tracking of quality control measures.
