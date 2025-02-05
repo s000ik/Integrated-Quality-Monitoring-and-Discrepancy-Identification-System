@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { Box, Container, Unstable_Grid2 as Grid } from "@mui/material";
 import { Layout as DashboardLayout } from "src/layouts/dashboard/layout";
-
+import { Analytics } from '@vercel/analytics/next';
 const now = new Date();
 
 const DownloadButton = () => {
@@ -148,6 +148,7 @@ const Page = () => (
         </Grid>
       </Container>
     </Box>
+    <Analytics />
   </>
 );
 

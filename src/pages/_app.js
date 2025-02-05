@@ -9,6 +9,8 @@ import { useNProgress } from 'src/hooks/use-nprogress';
 import { createTheme } from 'src/theme';
 import { createEmotionCache } from 'src/utils/create-emotion-cache';
 import 'simplebar-react/dist/simplebar.min.css';
+import { Analytics } from '@vercel/analytics/react';
+
 
 const clientSideEmotionCache = createEmotionCache();
 
@@ -45,6 +47,7 @@ const App = (props) => {
                   : getLayout(<Component {...pageProps} />)
               }
             </AuthConsumer>
+            <Analytics />
           </ThemeProvider>
         </AuthProvider>
       </LocalizationProvider>
